@@ -1,5 +1,5 @@
 {
-  "name": "yourAppsName",
+  "name": "StockMrkt Watch",
   "app_id": "",
   "gulpStartupTasks": [
     "sass",
